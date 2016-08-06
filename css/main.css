@@ -1,0 +1,26 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+[v-cloak] {
+    display: none;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+table tr td:first-child {
+    width: 60%;
+}
+
+.text-middle {
+    text-align: center;
+}
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
