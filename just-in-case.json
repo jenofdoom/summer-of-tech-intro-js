@@ -1,0 +1,1413 @@
+{
+    "query": {
+        "offset": 0,
+        "count": 78,
+        "total": 78
+    },
+    "consultations": [
+        {
+            "id": 3181,
+            "title": "Draft Housing Policy",
+            "description": "<p><span>The Policy's vision is that all people in Christchurch have access to housing that is secure, safe, affordable, warm and dry.\u00a0<\/span><span>The draft Housing Policy will guide the Council's decisions and support collaborative action across the continuum of social, affordable and market housing to achieve the Policy's vision.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1285,
+                    "name": "Christchurch City Council"
+                }
+            ],
+            "url": "http:\/\/www.ccc.govt.nz\/the-council\/have-your-say\/whats-happening-now\/consultations",
+            "start": "2016-07-07T00:00:00+12:00",
+            "end": "2016-08-07T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Christchurch"
+            ]
+        },
+        {
+            "id": 3113,
+            "title": "Trans-Pacific Partnership Agreement Amendment Bill: patent perm extensions proposed regulations",
+            "description": "<p>Ministry of Business, Innovation and Employment has released a consultation document seeking feedback on proposed regulations to implement the patent term extension provisions in the Trans-Pacific Partnership Agreement Amendment Bill. The Bill will, when it enters into force, amend the Patents Act 2013 to provide for patent term extensions for unreasonable delays in patent grant; and unreasonable curtailment of the effective patent term as a result of the Medsafe approval process.<\/p>",
+            "organisation": [
+                {
+                    "id": 932,
+                    "name": "Ministry of Business"
+                }
+            ],
+            "url": "http:\/\/www.mbie.govt.nz\/info-services\/business\/intellectual-property\/tpp-intellectual-property-chapter\/consultation-on-proposed-patent-term-extension-regulations",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-08T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Business"
+            ]
+        },
+        {
+            "id": 3172,
+            "title": "Draft domestic sustainability strategy",
+            "description": "<p><span>Palmerston North City Council wants to support you to live in a more sustainable way. They want to hear what barriers are in your way so they can help to address them.<\/span><\/p>\n<p><span><\/span><\/p>",
+            "organisation": [
+                {
+                    "id": 1292,
+                    "name": "Palmerston North City Council"
+                }
+            ],
+            "url": "http:\/\/www.pncc.govt.nz\/yourcouncil\/consultations-initiatives-and-projects\/consultations\/draft-domestic-sustainability-strategy\/",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-08T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Palmerston North"
+            ]
+        },
+        {
+            "id": 3223,
+            "title": " Abberley Park playground renewal",
+            "description": "<p><span>The playground equipment beside the community hall in Abberley Park is due to be replaced as part of the Christchurch City Council\u2019s 25 year playground renewal programme.\u00a0<\/span><span>This programme ensures play equipment is safe, meets the current New Zealand playground standards, and maintains an acceptable level of service for the community.\u00a0<\/span><span>Design of the proposed equipment has been based on the heritage significance of the park which retains much of its original peaceful 19th century character.\u00a0<\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1285,
+                    "name": "Christchurch City Council"
+                }
+            ],
+            "url": "http:\/\/www.ccc.govt.nz\/the-council\/have-your-say\/whats-happening-now\/consultations",
+            "start": "2016-07-22T00:00:00+12:00",
+            "end": "2016-08-08T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Christchurch"
+            ]
+        },
+        {
+            "id": 3226,
+            "title": "Glasnevin Drive\/Glencullen Drive intersection - proposed no stopping",
+            "description": "<p><span>Local residents have been in touch with Christchurch City Council to raise their concern about visibility at the intersection of Glasnevin Drive and the south entrance of Glencullen Drive.\u00a0<\/span><span>Cars parking on the intersection are causing congestion and restricting visibility.\u00a0<\/span><span>The Council proposes installing no stopping lines at the intersection of Glasnevin Drive and Glencullen Drive to improve visibility and increase safety.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1285,
+                    "name": "Christchurch City Council"
+                }
+            ],
+            "url": "http:\/\/www.ccc.govt.nz\/the-council\/have-your-say\/whats-happening-now\/consultations",
+            "start": "2016-07-22T00:00:00+12:00",
+            "end": "2016-08-08T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Christchurch"
+            ]
+        },
+        {
+            "id": 2923,
+            "title": "Draft Hutt Valley Trade Wastes Bylaw",
+            "description": "<p>The purpose of the proposed bylaw is to meet the requirements of the Local Government Act 2002, establish standards for trade waste discharges, and facilitate the management of the acceptance of trade wastes into the public waste water system on behalf of the Hutt City Council and the Upper Hutt City Council.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1288,
+                    "name": "Hutt City Council"
+                }
+            ],
+            "url": "http:\/\/www.huttcity.govt.nz\/Your-Council\/Have-your-say\/Consulting-on\/draft-hutt-valley-trade-wastes-bylaw\/",
+            "start": "2016-06-08T00:00:00+12:00",
+            "end": "2016-08-09T16:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Hutt"
+            ]
+        },
+        {
+            "id": 3025,
+            "title": "A file format for exchanging generally available retail tariff plan data",
+            "description": "<p>The Electricity Authority have amended the Code to require retailers to provide information about their generally available retail tariff plans to any person that requests them. The Code amendment took effect on 1 February 2016. However, the Code does not specify the format or method a retailer may use to provide this information. This consultation paper presents a draft file format for use by retailers and seeks feedback from interested parties. The use of the file format is voluntary. The format is an addition to the current suite of industry EIEPs and has been titled EIEP 14.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1117,
+                    "name": "Electricity Authority"
+                }
+            ],
+            "url": "http:\/\/www.ea.govt.nz\/development\/work-programme\/retail\/retail-data\/consultations\/#c16094",
+            "start": "2016-06-28T00:00:00+12:00",
+            "end": "2016-08-09T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Electricity"
+            ]
+        },
+        {
+            "id": 3088,
+            "title": "Golden Bay outstanding natural features and landscapes feedback",
+            "description": "<p><span>Tasman District Council wants to make sure Golden Bay\u2019s outstanding natural features and landscapes are preserved and protected for future generations. With the community\u2019s help, they have spent several years identifying the Bay\u2019s most precious places and reviewing the rules that govern the way they are managed and protected. They have come up with a draft set of locations in need of particular care, as well as rule changes to ensure their protection.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1336,
+                    "name": "Tasman District Council"
+                }
+            ],
+            "url": "http:\/\/www.tasman.govt.nz\/policy\/public-consultation\/golden-bay-outstanding-natural-features-and-landscapes-feedback\/",
+            "start": "2016-07-06T00:00:00+12:00",
+            "end": "2016-08-09T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Tasman"
+            ]
+        },
+        {
+            "id": 3058,
+            "title": "Proposed changes to the National Microbiological Database (NMD) Notice 2016",
+            "description": "<p>From 29 June 2016 to 10 August 2016 the Ministry for Primary industries (MPI) invites comments on proposed changes to the National Microbiological Database (NMD) specifications.<\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 929,
+                    "name": "Ministry for Primary Industries"
+                }
+            ],
+            "url": "http:\/\/www.mpi.govt.nz\/news-and-resources\/consultations\/mpi-proposed-changes-to-the-national-microbiological-database-nmd-notice-2016\/",
+            "start": "2016-06-29T00:00:00+12:00",
+            "end": "2016-08-10T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Food safety and biosecurity"
+            ]
+        },
+        {
+            "id": 3059,
+            "title": "PUB00276: Updated \"permanent place of abode\" extract from IS 14\/01 - tax residence",
+            "description": "<p>Following the Court of Appeal decision in CIR v Diamond [2015] NZCA 613, part of Interpretation Statement 14\/01 is being updated. This concerns one of the tax residence tests for individuals - the \"permanent place of abode\" test in s YD 1(2). The key aspect that has changed following the Diamond decision is the emphasis on the nature and quality of the use a person habitually makes of their place of abode in New Zealand.<\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 926,
+                    "name": "Inland Revenue Department"
+                }
+            ],
+            "url": "http:\/\/www.ird.govt.nz\/public-consultation\/current\/public-consultation-draft-items-index.html",
+            "start": "2016-07-05T00:00:00+12:00",
+            "end": "2016-08-10T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Tax"
+            ]
+        },
+        {
+            "id": 3157,
+            "title": "Income tax \u2013 date of acquisition of land",
+            "description": "<p><span>This item deals with the issue of when land is acquired under s CB 15B. The item concludes that what is relevant is when the\u00a0<\/span>first interest\u00a0in the land (eg, the particular estate) that is being disposed of was acquired.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 926,
+                    "name": "Inland Revenue Department"
+                }
+            ],
+            "url": "http:\/\/www.ird.govt.nz\/public-consultation\/current\/public-consultation-draft-items-index.html",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-10T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Tax"
+            ]
+        },
+        {
+            "id": 3160,
+            "title": "PUB00276: Updated \u201cpermanent place of abode\u201d extract from IS 14\/01 \u2013 tax residence",
+            "description": "<p><span>As a result of the Court of Appeal decision in\u00a0<\/span>CIR v Diamond<span>\u00a0[2015] NZCA 613, part of Interpretation Statement IS 14\/01 is being updated.\u00a0<span>The updated section concerns one of the tax residence tests for individuals \u2013 the \u201cpermanent place of abode\u201d test in s YD 1(2).<\/span><\/span><\/p>\n<p><span><span><\/span><\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 926,
+                    "name": "Inland Revenue Department"
+                }
+            ],
+            "url": "http:\/\/www.ird.govt.nz\/public-consultation\/current\/public-consultation-draft-items-index.html",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-10T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Tax"
+            ]
+        },
+        {
+            "id": 3010,
+            "title": "Proposed NZQA Rule changes",
+            "description": "<p><span>The proposed changes seek to ensure that NZQA Rules are clear, reflect current practice and operational changes, and enable NZQA to effectively perform its quality assurance functions.<\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1097,
+                    "name": "New Zealand Qualifications Authority"
+                }
+            ],
+            "url": "http:\/\/www.nzqa.govt.nz\/about-us\/consultations-and-reviews\/proposed-nzqa-rule-changes\/",
+            "start": "2016-06-16T00:00:00+12:00",
+            "end": "2016-08-11T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Education"
+            ]
+        },
+        {
+            "id": 3235,
+            "title": "Hamilton East neighbourhood plan",
+            "description": "<p><span>The draft Hamilton East Neighbourhood Plan is a strategic document aiming to make Hamilton East a popular and attractive character suburb that remembers its history.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1287,
+                    "name": "Hamilton City Council"
+                }
+            ],
+            "url": "https:\/\/haveyoursay.hamilton.govt.nz\/strategy-research\/hamiltoneast",
+            "start": "2016-07-22T00:00:00+12:00",
+            "end": "2016-08-11T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Hamilton"
+            ]
+        },
+        {
+            "id": 2992,
+            "title": "Intention to grant a lease concession to Bush Railway and Old Sawmill Trust",
+            "description": "<p><span>The Minister of Conservation gives notice of her intention to grant a 30 year concession under section 17Q of the Conservation Act 1987 to Bush Railway and Old Sawmill Trust for a lease\/licence over part of the Patetere Scenic Reserve at Mamaku, to establish and operate a historic bush railway and sawmill facility together with cafe, sites for self contained caravans, motorhomes, caretakers residence and guided tours.<\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/intention-to-grant-a-lease-concession-to-bush-railway-and-old-sawmill-trust\/",
+            "start": "2016-06-17T00:00:00+12:00",
+            "end": "2016-08-12T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Conservation"
+            ]
+        },
+        {
+            "id": 3038,
+            "title": "Review of class 4 gambling",
+            "description": "<p><span>This discussion document seeks your views on how community funding from class 4 gambling (pokies in clubs, pubs and bars) can be sustained into the future. Class 4 gambling expenditure has declined since the passing of the Gambling Act 2003, leading to a consequent decrease in funding to communities.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 922,
+                    "name": "Department of Internal Affairs"
+                }
+            ],
+            "url": "https:\/\/www.dia.govt.nz\/diawebsite.nsf\/wpg_URL\/Services-Casino-and-Non-Casino-Gaming-Gambling-Consultation",
+            "start": "2016-06-20T00:00:00+12:00",
+            "end": "2016-08-12T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Gambling"
+            ]
+        },
+        {
+            "id": 3100,
+            "title": "Tauranga reserves management plan",
+            "description": "<p><span>Tauranga City Council are reviewing their reserve management plans \u2013 to make sure they\u2019re looking after reserves in the best way possible.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1294,
+                    "name": "Tauranga City Council"
+                }
+            ],
+            "url": "http:\/\/www.tauranga.govt.nz\/have-your-say\/formal-submissions\/tabid\/1004\/aid\/44151\/tctl\/2204_ViewAnnouncement\/Default.aspx",
+            "start": "2016-06-13T00:00:00+12:00",
+            "end": "2016-08-12T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Tauranga"
+            ]
+        },
+        {
+            "id": 3112,
+            "title": "Land Transport Rule: Vehicle Dimensions and Mass 2016",
+            "description": "<p>The NZ Transport Agency is consulting, on behalf of the Minister of Transport, on Land Transport Rule: Vehicle Dimensions and Mass 2016 (the proposed Rule). The aim of the proposed Rule is to deliver productivity improvements, greater regulatory efficiency and reduced compliance costs without compromising the road transport system and road user safety outcomes.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1100,
+                    "name": "New Zealand Transport Agency"
+                }
+            ],
+            "url": "http:\/\/www.nzta.govt.nz\/about-us\/consultations\/land-transport-rule-vehicle-dimensions-and-mass-2016\/",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-12T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Transport"
+            ]
+        },
+        {
+            "id": 3163,
+            "title": "ED0187: Disputes resolution process commenced by the Commissioner of Inland Revenue",
+            "description": "<p><span>This draft standard practice statement sets out the Commissioner\u2019s and taxpayer\u2019s rights and responsibilities in the disputes resolution process. It should be noted that a full review of SPS 11\/05 has not been undertaken.\u00a0<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 926,
+                    "name": "Inland Revenue Department"
+                }
+            ],
+            "url": "http:\/\/www.ird.govt.nz\/public-consultation\/current\/public-consultation-draft-items-index.html",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-12T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Tax"
+            ]
+        },
+        {
+            "id": 3166,
+            "title": "ED0188: Disputes resolution process commenced by a taxpayer",
+            "description": "<p><span>This draft standard practice statement sets out the Commissioner\u2019s and taxpayer\u2019s rights and responsibilities in the disputes resolution process. It should be noted that a full review of SPS 11\/06 has not been undertaken.<\/span><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 926,
+                    "name": "Inland Revenue Department"
+                }
+            ],
+            "url": "http:\/\/www.ird.govt.nz\/public-consultation\/current\/public-consultation-draft-items-index.html",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-12T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Tax"
+            ]
+        },
+        {
+            "id": 3182,
+            "title": "Land Transport Rule: Omnibus Amendment 2016",
+            "description": "<p>The NZ Transport Agency is consulting, on behalf of the Minister of Transport (the Minister), on proposed changes to\u00a0<span><em>Land Transport Rule: Omnibus Amendment 2016<\/em><\/span>\u00a0(\"the Rule\").\u00a0Consultation on the proposed changes is being carried out to ensure that legislation is sound and robust. Further that the Rules development process takes account of the views of, and the impact on, people affected by proposed Rule changes.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1100,
+                    "name": "New Zealand Transport Agency"
+                }
+            ],
+            "url": "http:\/\/www.nzta.govt.nz\/about-us\/consultations\/land-transport-rule-omnibus-amendment-2016\/",
+            "start": "2016-07-15T00:00:00+12:00",
+            "end": "2016-08-12T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Transport"
+            ]
+        },
+        {
+            "id": 3298,
+            "title": " Traffic resolutions - traffic & parking restrictions (July 2016)",
+            "description": "<p>Wellington City Council is asking for feedback on forty three proposed new traffic resolutions for Wellington.\u00a0The resolutions are for a variety of traffic and parking restrictions.<\/p>",
+            "organisation": [
+                {
+                    "id": 1296,
+                    "name": "Wellington City Council"
+                }
+            ],
+            "url": "http:\/\/wellington.govt.nz\/have-your-say\/public-inputs\/consultations\/open\/traffic-resolutions-july-2016",
+            "start": "2016-07-26T00:00:00+12:00",
+            "end": "2016-08-12T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Wellington"
+            ]
+        },
+        {
+            "id": 3205,
+            "title": "Students' feedback on university entrance requirements",
+            "description": "<p>NZQA is currently undertaking a\u00a0review\u00a0of the university entrance requirements to ensure they are working as intended. They\u00a0<span>are particularly interested in hearing the views of students who are studying under the current university entrance requirements or would have studied under these requirements.<\/span><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1097,
+                    "name": "New Zealand Qualifications Authority"
+                }
+            ],
+            "url": "http:\/\/www.nzqa.govt.nz\/about-us\/consultations-and-reviews\/review-of-ue-requirements-2\/",
+            "start": "2016-07-19T00:00:00+12:00",
+            "end": "2016-08-14T00:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Education"
+            ]
+        },
+        {
+            "id": 3208,
+            "title": "Principals' feedback on university entrance requirements",
+            "description": "<p>NZQA is undertaking a\u00a0review\u00a0of the university entrance requirements to ensure they are working as intended. They\u00a0<span>are currently seeking the views of schools' leadership to help them to understand the impact of the university entrance requirements and to assess if any changes should be considered.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1097,
+                    "name": "New Zealand Qualifications Authority"
+                }
+            ],
+            "url": "http:\/\/www.nzqa.govt.nz\/about-us\/consultations-and-reviews\/review-of-ue-requirements\/",
+            "start": "2016-07-19T00:00:00+12:00",
+            "end": "2016-08-14T00:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Education"
+            ]
+        },
+        {
+            "id": 3266,
+            "title": "Reducing dog attacks",
+            "description": "<p>The New Zealand Government has begun a review of dog control laws. The aim of the review is to see whether the current laws are doing enough to prevent dog attacks and decide whether the laws need changing. This is your chance to tell government\u00a0your thoughts about dog control laws and your ideas to reduce the risk and harm from dog attacks.<\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 922,
+                    "name": "Department of Internal Affairs"
+                }
+            ],
+            "url": "https:\/\/www.govt.nz\/browse\/engaging-with-government\/reducing-dog-attacks-share-your-thoughts\/",
+            "start": "2016-08-01T00:00:00+12:00",
+            "end": "2016-08-14T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Government"
+            ]
+        },
+        {
+            "id": 3193,
+            "title": "Freedom Camping Bylaw 2016 Draft",
+            "description": "<p><span>The demand for freedom camping is increasing in the Gisborne district as visitor numbers increase.\u00a0<\/span>Tairawhiti offers a unique beach camping experience including along remote parts of the East Coast. Gisborne District Council have a responsibility to make sure that camping on Council land is well-managed to minimise risks to public health, amenity, the environment and public access.\u00a0<\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1306,
+                    "name": "Gisborne District Council"
+                }
+            ],
+            "url": "http:\/\/www.gdc.govt.nz\/freedom-camping-bylaw-2016-draft\/",
+            "start": "2016-07-18T00:00:00+12:00",
+            "end": "2016-08-15T12:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Gisborne"
+            ]
+        },
+        {
+            "id": 3151,
+            "title": "Whirinaki Te Pua-a-T\u0101ne Conservation Management Plan consultation",
+            "description": "<p><span>The Whirinaki Te Pua-a-T\u0101ne Conservation Park, including plants, animals, tracks and historic sites, is looked after by the Department, for everyone to enjoy now and into the future. The Whirinaki Te Pua-a-Tane Conservation Park Management Plan gives strategic direction on how this happens.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><span><\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/whirinaki-conservation-management-plan\/",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-16T16:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Conservation"
+            ]
+        },
+        {
+            "id": 3133,
+            "title": "Proposal to dispose of conservation land in North West Nelson Forest Conservation Park",
+            "description": "<p><span>The Acting Director Operations Western South Island Region hereby gives notice, pursuant to Section 49 of the Conservation Act 1987, that it is intended to dispose approximately 7 ha (subject to survey) of conservation land described as Pt Sec 26 Blk V, Oparara SD.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/proposal-to-dispose-conservation-land-in-north-west-nelson-forest-conservation-park\/",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-17T16:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Land and property"
+            ]
+        },
+        {
+            "id": 3263,
+            "title": "Harakeke Street, Kilmarnock Street and Jane Deans Close - Proposed parking restrictions",
+            "description": "<p>Local residents have expressed concern about the lack of parking on Harakeke Street, Kilmarnock Street and Jane Deans Close. There is high demand for parking on these streets and cars parking all day restricts availability for residents.\u00a0The Christchurch City Council proposes installing staggered P120 parking restrictions on areas of Harakeke Street, Kilmarnock Street and Jane Deans Close. This will help parking turnover and free up some parking spaces for residents, their visitors and short term parkers.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1285,
+                    "name": "Christchurch City Council"
+                }
+            ],
+            "url": "http:\/\/www.ccc.govt.nz\/the-council\/have-your-say\/whats-happening-now\/consultations",
+            "start": "2016-07-27T00:00:00+12:00",
+            "end": "2016-08-17T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Christchurch"
+            ]
+        },
+        {
+            "id": 3106,
+            "title": "Proposed amendments to the import health standard for nursery stock for the management of Phellinus noxius",
+            "description": "<p>MPI is seeking your feedback on the addition of phytosanitary requirements for the management of Phellinus noxius in nursery stock hosts (whole plants, including rooted cuttings) from all countries.<\/p>",
+            "organisation": [
+                {
+                    "id": 929,
+                    "name": "Ministry for Primary Industries"
+                }
+            ],
+            "url": "http:\/\/mpi.govt.nz\/news-and-resources\/consultations\/proposed-amendments-to-the-import-health-standard-for-nursery-stock-for-the-management-of-phellinus-noxius\/",
+            "start": "2016-07-08T00:00:00+12:00",
+            "end": "2016-08-19T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Biosecurity"
+            ]
+        },
+        {
+            "id": 3154,
+            "title": "Making tax simpler - Investment income information",
+            "description": "<p>Making tax simpler - Investment income information, seeks views on proposed changes to the way that\u00a0tax on investment income is administered, and\u00a0investment income information is collected.<\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 926,
+                    "name": "Inland Revenue Department"
+                }
+            ],
+            "url": "http:\/\/taxpolicy.ird.govt.nz\/consultation",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-19T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Tax"
+            ]
+        },
+        {
+            "id": 3217,
+            "title": "Telecommunications Act Review: Options paper",
+            "description": "<p>A review of the Telecommunications Act 2001 is underway. The Ministry of Business Innovation and Employment want to make sure New Zealand has the right laws for communications networks after 2020, to meet the needs of consumers and businesses, and to help keep our economy growing.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 932,
+                    "name": "Ministry of Business"
+                }
+            ],
+            "url": "http:\/\/www.mbie.govt.nz\/telcoreview",
+            "start": "2016-07-12T00:00:00+12:00",
+            "end": "2016-08-19T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Telecommunications"
+            ]
+        },
+        {
+            "id": 3041,
+            "title": "Library layout proposal 2016",
+            "description": "<p><span>The Invercargill City Library started a consultation process two years ago and has come up with a proposal it would like to get underway in January 2017.<\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1289,
+                    "name": "Invercargill City Council"
+                }
+            ],
+            "url": "http:\/\/icc.govt.nz\/public-documents\/consultation\/",
+            "start": "2016-06-25T00:00:00+12:00",
+            "end": "2016-08-22T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Invercargill"
+            ]
+        },
+        {
+            "id": 3062,
+            "title": "EPR616: Standard for the use of a valid electronic signature on documents provided to the Commissioner",
+            "description": "<p>Consultation on the draft standard outlining the guidelines on the use of electronic signatures on documents and information provided to Inland Revenue.<\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 926,
+                    "name": "Inland Revenue Department"
+                }
+            ],
+            "url": "http:\/\/www.ird.govt.nz\/public-consultation\/current\/public-consultation-draft-items-index.html",
+            "start": "2016-07-05T00:00:00+12:00",
+            "end": "2016-08-22T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Tax"
+            ]
+        },
+        {
+            "id": 3094,
+            "title": "Draft Nelson-Tasman joint land development manual feedback",
+            "description": "<p>The Nelson\u2013Tasman Land Development Manual (NTLDM) will replace previous engineering design standards of both the Nelson City Council (the Land Development Manual 2010) and the Tasman District Council (Engineering Standards 2013).\u00a0The NTLDM is designed to give effect to each Council\u2019s Resource Management Plans by providing acceptable design solutions to Developers, Designers and Asset Managers.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1336,
+                    "name": "Tasman District Council"
+                }
+            ],
+            "url": "http:\/\/www.tasman.govt.nz\/policy\/public-consultation\/draft-nelson-tasman-land-development-manual\/",
+            "start": "2016-07-06T00:00:00+12:00",
+            "end": "2016-08-22T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Tasman"
+            ]
+        },
+        {
+            "id": 3187,
+            "title": "Changes to rules for disposal of hazardous substances",
+            "description": "<p><span>The Environmental Protection Authority (EPA)\u00a0is calling for submissions on proposals to change the rules for managing the disposal of hazardous substances.\u00a0<\/span>The changes are part of a wider government effort to improve workplace health and safety.<\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1087,
+                    "name": "Environmental Protection Authority"
+                }
+            ],
+            "url": "http:\/\/www.epa.govt.nz\/consultations\/hazardous-substances\/Pages\/Submissions-sought-on-changes-to-rules-for-disposal-of-hazardous-substances.aspx",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-22T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Environment"
+            ]
+        },
+        {
+            "id": 3281,
+            "title": "Reviews of the Financial Markets Authority funding and the Financial Markets Authority levy",
+            "description": "<p><span>The Financial Markets Authority have been working with MBIE to review their funding. This is the first review since funding was set in 2011, when the FMA was established. The initial funding model therefore does not take into account that our responsibilities have significantly expanded under the Financial Markets Conduct Act and other financial markets legislation.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1119,
+                    "name": "Financial Markets Authority"
+                }
+            ],
+            "url": "http:\/\/www.mbie.govt.nz\/info-services\/business\/business-law\/review-of-fma-funding-levies-and-fees",
+            "start": "2016-08-01T00:00:00+12:00",
+            "end": "2016-08-22T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Finance"
+            ]
+        },
+        {
+            "id": 3293,
+            "title": "Road stopping proposal: Hauschilds Road",
+            "description": "<p>Council has received a request for consent by the adjoining neighbour to a proposed road stopping of an area of 782m2 unformed road (subject to survey) which adjoins or passes through the neighbour\u2019s property Lot 3 DP 459055, as shown on Scheme Plan ref 713268.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1329,
+                    "name": "Selwyn District Council"
+                }
+            ],
+            "url": "https:\/\/www.selwyn.govt.nz\/website-information\/about-this-site\/have-your-say",
+            "start": "2016-08-01T00:00:00+12:00",
+            "end": "2016-08-22T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Selwyn"
+            ]
+        },
+        {
+            "id": 3295,
+            "title": "Plan Change 94B - Papakainga",
+            "description": "<p>Whangarei District Council proposes to amend provisions relating to papakainga developments in the Whangarei District Plan. The purpose of PC94B is to provide opportunities for Maori land owners to develop and live on their ancestral land and to develop guidelines and standards for the papakainga development plan process.<\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1351,
+                    "name": "Whangarei District Council"
+                }
+            ],
+            "url": "http:\/\/www.wdc.govt.nz\/NewsRoom\/PublicNotices\/Pages\/Plan-Change-94B-Papakainga.aspx",
+            "start": "2016-07-27T00:00:00+12:00",
+            "end": "2016-08-23T16:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Whangarei"
+            ]
+        },
+        {
+            "id": 3028,
+            "title": "WAG discussion paper: Wholesale Market Information \u2014 Review of disclosure exclusions",
+            "description": "<p>The WAG seeks feedback from interested parties on the Wholesale market information: Review of disclosure exclusions discussion paper. The Electricity Authority asked the WAG to investigate whether the current exclusions from making wholesale market information readily available to the public (under subclause 13.2A(2) of the Code) support the efficiency limb of the Authority\u2019s statutory objective. The discussion paper explores the issues the WAG has identified. The paper also proposes some options for amending clause 13.2A of the Code to enhance the disclosure of relevant information, and suggests some market facilitation measures.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1117,
+                    "name": "Electricity Authority"
+                }
+            ],
+            "url": "http:\/\/www.ea.govt.nz\/development\/work-programme\/wholesale\/wholesale-market-information-clause-13-2-and-fuel\/consultation\/#c16099",
+            "start": "2016-06-27T00:00:00+12:00",
+            "end": "2016-08-23T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Electricity"
+            ]
+        },
+        {
+            "id": 3236,
+            "title": "Proposal to freehold land at Chesney Street Reserve",
+            "description": "<p><span><span>Notice is given pursuant to Section 24(1)(b) of the Reserves Act 1977 that the\u00a0<\/span>Invercargill City Council as administering body of Chesney Street Reserve proposes that the reserve as more particularly identified as 1166m\u00b2, being Lot 19 DP 11128, be revoked. The reason for the proposed revocation is to freehold the land for the purposes of sale.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1289,
+                    "name": "Invercargill City Council"
+                }
+            ],
+            "url": "http:\/\/icc.govt.nz\/public-documents\/consultation\/",
+            "start": "2016-07-20T00:00:00+12:00",
+            "end": "2016-08-24T16:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Invercargill"
+            ]
+        },
+        {
+            "id": 3284,
+            "title": "Glengarry Crescent: proposed exchange of reserve land",
+            "description": "<p><span>The Invercargill City Council Parks Department currently occupies an area of Council land for a playground at Glengarry Crescent and intends to take over this land and classify it as a reserve by exchanging the land for the existing reserve land on the outside of the crescent.<\/span><\/p>\n<p><span><\/span><\/p>",
+            "organisation": [
+                {
+                    "id": 1289,
+                    "name": "Invercargill City Council"
+                }
+            ],
+            "url": "http:\/\/icc.govt.nz\/public-documents\/consultation\/",
+            "start": "2016-08-01T00:00:00+12:00",
+            "end": "2016-08-24T16:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Invercargill"
+            ]
+        },
+        {
+            "id": 3212,
+            "title": "Proposed dog exercise areas in Pokeno and Tamahere",
+            "description": "<p><span>Waikato District Council is proposing to make part of the Pokeno Domain and part of the river walkway of Te Awa Reserve, Te Awa Road, Tamahere a dog exercise area under the Dog Control Bylaw.<\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1340,
+                    "name": "Waikato District Council"
+                }
+            ],
+            "url": "https:\/\/www.waikatodistrict.govt.nz\/your-council\/public-consultations\/current-consultations\/proposed-dog-exercise-areas-in-pokeno-and-tamahere",
+            "start": "2016-07-19T00:00:00+12:00",
+            "end": "2016-08-24T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Waikato"
+            ]
+        },
+        {
+            "id": 3136,
+            "title": "Partial lifting of Specially Protected Area Status, Murchison Mountains",
+            "description": "<p><span>Under section 12 of the National Parks Act 1980, DOC proposes to alter the boundary of the Takah\u0113 Specially Protected Area (Murchison Mountains). The proposal relates to a stretch of Lake Te Anau shoreline from Garden Point to Aurora Point. The furthest the boundary would be moved inland, away from the shoreline, would be approximately 200-300 m.<\/span><\/p>\n<p><span><\/span><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/partial-lifting-of-specially-protected-area-status-murchison-mountains\/",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-26T16:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Conservation"
+            ]
+        },
+        {
+            "id": 3301,
+            "title": "Newlands medium-density housing",
+            "description": "<p>Wellington City Council have\u00a0<span>drafted a District Plan Change that proposes introducing a medium-density residential area (MDRA) and making changes to building design standards.<\/span><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1296,
+                    "name": "Wellington City Council"
+                }
+            ],
+            "url": "http:\/\/planningoursuburbs.org.nz\/where\/newlands\/",
+            "start": "2016-08-02T00:00:00+12:00",
+            "end": "2016-08-26T16:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Wellington"
+            ]
+        },
+        {
+            "id": 3304,
+            "title": "Tawa town centre planning ",
+            "description": "<p>Wellington City Council are investing in Tawa town centre to make it more attractive, vibrant and safe. Based on earlier feedback, they have developed some ideas on how to improve the\u00a0town centre.<\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1296,
+                    "name": "Wellington City Council"
+                }
+            ],
+            "url": "http:\/\/planningoursuburbs.org.nz\/where\/tawa\/",
+            "start": "2016-08-02T00:00:00+12:00",
+            "end": "2016-08-26T16:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Wellington"
+            ]
+        },
+        {
+            "id": 2852,
+            "title": "Mount Eliott",
+            "description": "<p><span>To alter a geographic name from Mount Elliot to Mount Eliott.<\/span><\/p>",
+            "organisation": [
+                {
+                    "id": 927,
+                    "name": "Land Information New Zealand"
+                }
+            ],
+            "url": "http:\/\/www.linz.govt.nz\/regulatory\/place-names\/place-name-consultation\/14195",
+            "start": "2016-05-26T00:00:00+12:00",
+            "end": "2016-08-26T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Land and property"
+            ]
+        },
+        {
+            "id": 2855,
+            "title": "Mount Gordon",
+            "description": "<p><span><span>To alter a geographic name from Mount Gorden to Mount Gordon.\u00a0<\/span>A peak at 1880m in Solution Range on the northwestern side of Landsborough River, approximately 5km east of Mount Hooker, Southern Alps\/K\u0101 Tiritiri o te Moana.<\/span><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 927,
+                    "name": "Land Information New Zealand"
+                }
+            ],
+            "url": "http:\/\/www.linz.govt.nz\/regulatory\/place-names\/place-name-consultation\/14196",
+            "start": "2016-05-26T00:00:00+12:00",
+            "end": "2016-08-26T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Land and property"
+            ]
+        },
+        {
+            "id": 2858,
+            "title": "P\u016bkio Stream",
+            "description": "<p><span>To alter a geographic name from Nigger Stream to P\u016bkio Stream.\u00a0<span>A stream flowing south from Mount Turnbull on The Candlesticks (range) to Esk River, through Lochinvar Forest Conservation Area. Approximately 15km northeast of Waimakariri River in the foothills of Southern Alps\/K\u0101 Tiritiri o te Moana.<\/span><\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 927,
+                    "name": "Land Information New Zealand"
+                }
+            ],
+            "url": "http:\/\/www.linz.govt.nz\/regulatory\/place-names\/place-name-consultation\/14198",
+            "start": "2016-05-26T00:00:00+12:00",
+            "end": "2016-08-26T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Land and property"
+            ]
+        },
+        {
+            "id": 2861,
+            "title": "Waiau Toa \/ Clarence River",
+            "description": "<p><span>To alter a geographic name from Clarence River to Waiau Toa \/ Clarence River.<\/span><\/p>",
+            "organisation": [
+                {
+                    "id": 927,
+                    "name": "Land Information New Zealand"
+                }
+            ],
+            "url": "http:\/\/www.linz.govt.nz\/regulatory\/place-names\/place-name-consultation\/14197",
+            "start": "2016-05-26T00:00:00+12:00",
+            "end": "2016-08-26T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Land and property"
+            ]
+        },
+        {
+            "id": 2864,
+            "title": "Waiau Uwha River",
+            "description": "<p>To alter a geographic name from Waiau River to Waiau Uwha River.<\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 927,
+                    "name": "Land Information New Zealand"
+                }
+            ],
+            "url": "http:\/\/www.linz.govt.nz\/regulatory\/place-names\/place-name-consultation\/14199",
+            "start": "2016-05-26T00:00:00+12:00",
+            "end": "2016-08-26T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Land and property"
+            ]
+        },
+        {
+            "id": 3139,
+            "title": "Intention to grant a variation to a concession to NZSki",
+            "description": "<p><span>The Minister of Conservation gives notice of her intention to grant a variation to a 30 year easement concession under section 17ZC(2) of the Conservation Act 1987 to NZSki Limited to place underground an existing temporary overland water pipeline to Lake Alta within the Remarkables Conservation Area for snow making purposes within the Remarkables ski field.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/intention-to-grant-concession-to-nzski\/",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-08-26T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Business"
+            ]
+        },
+        {
+            "id": 3239,
+            "title": "2016\/17 draft Annual Control Works Programme",
+            "description": "<p><span>Land Information New Zealand (LINZ) works with stakeholders to produce the 2016\/17 Biosecurity Control Works Programme for Crown land administered by LINZ.<\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 927,
+                    "name": "Land Information New Zealand"
+                }
+            ],
+            "url": "http:\/\/www.linz.govt.nz\/crown-property\/using-crown-property\/biosecurity\/control-programmes\/201617-draft-annual-control-works-programme",
+            "start": "2016-07-22T00:00:00+12:00",
+            "end": "2016-08-26T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Biosecurity"
+            ]
+        },
+        {
+            "id": 3260,
+            "title": "Draft Urban Growth Strategy for Waipawa and Waipukurau",
+            "description": "<p><span>The draft strategy addresses the demand for future residential, commercial and industrial growth and development within the urban centres of Waipawa and Waipukurau and the possible options that Council might consider to respond to future development demand.<\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1302,
+                    "name": "Central Hawke's Bay District Council"
+                }
+            ],
+            "url": "http:\/\/www.chbdc.govt.nz\/our-council\/consultations\/current-consultations\/article\/134",
+            "start": "2016-07-29T00:00:00+12:00",
+            "end": "2016-08-26T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Hawkes Bay"
+            ]
+        },
+        {
+            "id": 3190,
+            "title": "Submissions sought on new gas for fridges and air conditioners",
+            "description": "<p class=\"ms-rteElement-P\">\u200b<span lang=\"EN-US\">The Environmental Protection Authority (EPA) is calling for\u00a0\u200b<\/span>submissions on an application to import a heat transfer gas to be used for refrigeration and air conditioning.\u00a0<span>The gas \u2013 HFO-1234yf \u2013 is for use in refrigeration and air conditioning systems in commercial and domestic settings, including in cars.<\/span><\/p>\n<p class=\"ms-rteElement-P\"><\/p>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>\n<div><\/div>",
+            "organisation": [
+                {
+                    "id": 1087,
+                    "name": "Environmental Protection Authority"
+                }
+            ],
+            "url": "http:\/\/www.epa.govt.nz\/consultations\/hazardous-substances\/Pages\/Submissions-sought-on-new-gas-for-fridges-and-air-conditioners.aspx",
+            "start": "2016-07-18T00:00:00+12:00",
+            "end": "2016-08-29T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Environment"
+            ]
+        },
+        {
+            "id": 3290,
+            "title": "Proposed Navigation Safety Bylaw 2014 amendments",
+            "description": "<p>Submissions are now open on the amended Navigation Safety Bylaw, which aims to combine the Navigation Safety Bylaw and the Waterways and Ramp Fees Bylaw, along with simplifying the rules, providing consistency of the terms used and removing unnecessary details.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1325,
+                    "name": "Queenstown-Lakes District Council"
+                }
+            ],
+            "url": "http:\/\/www.qldc.govt.nz\/your-council\/your-views\/proposed-navigation-safety-bylaw-2014-amendments\/",
+            "start": "2016-08-01T00:00:00+12:00",
+            "end": "2016-08-29T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Queenstown"
+            ]
+        },
+        {
+            "id": 3001,
+            "title": "Hutt River Environment Strategy Review",
+            "description": "<p><span>While the river and its banks are well used at present, there are still plenty of opportunities for further recreational and environmental enhancement provided the area is well managed according to accepted guidelines.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1281,
+                    "name": "Wellington Regional Council"
+                }
+            ],
+            "url": "http:\/\/www.gw.govt.nz\/environment-of-the-hutt-river\/",
+            "start": "2016-06-01T00:00:00+12:00",
+            "end": "2016-08-31T00:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Wellington"
+            ]
+        },
+        {
+            "id": 3196,
+            "title": "Natural Hazards Management Strategy",
+            "description": "<p><span>Councils around the region have agreed to work together to develop a Natural Hazards Management Strategy for the Wellington region.<\/span><span>\u00a0<\/span><span>The aim of the strategy is to guide research and planning for hazards.<\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1281,
+                    "name": "Wellington Regional Council"
+                }
+            ],
+            "url": "http:\/\/www.gw.govt.nz\/natural-hazards-management-strategy\/",
+            "start": "2016-07-01T00:00:00+12:00",
+            "end": "2016-08-31T00:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Wellington"
+            ]
+        },
+        {
+            "id": 3148,
+            "title": "Intention to grant concession to Buller Gorge Swing Bridge Ltd",
+            "description": "<p><span>The Minister of Conservation gives notice of her intention to grant a 30 year concession under section 17Q of the Conservation Act 1987 to Buller Gorge Swing Bridge Ltd, for a lease to occupy 0.087 ha of Buller Gorge Scenic Reserve for the use of existing structures (coffee cabin\/picnic tables, flying fox support beams, swing bridge anchor\/support and entrance cabin). This is part of their business \u2018The Buller Gorge Swing Bridge Adventure and Heritage Park\u2019 and in conjunction with Buller Gorge Swing Bridge Limited\u2019s private land.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/intention-to-grant-concession-to-buller-gorge-swing-bridge-ltd\/",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-09-01T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Business"
+            ]
+        },
+        {
+            "id": 3142,
+            "title": "Intention to grant concession to Waitaia Forestry Limited",
+            "description": "<p><span><span>The Minister of Conservation gives notice of her intention to grant a thirty (30) year concession (easement) under section 17Q of the Conservation Act 1987 to Waitaia Forestry Limited for a Right of Way access road for forestry purposes through part Coromandel State Forest Park.<\/span><\/span><\/p>\n<p><span><span><\/span><\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/intention-to-grant-concession-to-waitaia-forestry-limited\/",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-09-02T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Business"
+            ]
+        },
+        {
+            "id": 3145,
+            "title": "Intention to grant concession (lease) to Milford Sound Sea Kayaks Ltd",
+            "description": "<p><span>The Minister of Conservation gives notice of her intention to grant a 30 year concession (lease) under section 17Q of the Conservation Act 1987 to Milford Sound Sea Kayaks Ltd for a building as a base of operations in Deepwater Basin, Milford Sound\/Piopoitahi Fiordland National Park.\u00a0<\/span><\/p>\n<p><span><\/span><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/intention-to-grant-concession-lease-to-milford-sound-sea-kayaks-ltd\/",
+            "start": "2016-07-11T00:00:00+12:00",
+            "end": "2016-09-02T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Business"
+            ]
+        },
+        {
+            "id": 3275,
+            "title": "Regulation Impact Statement (RIS) - refrigerated display and storage cabinets",
+            "description": "<p>The Energy Efficiency and Conservation Authority are consulting on a proposal to revise minimum energy performance standards (MEPS) for commercial refrigerators. The report considers policies to\u00a0improve the energy efficiency of refrigerated cabinets,\u00a0include storage cabinets and consider labelling, and\u00a0harmonise with international standards (test methods).<\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1086,
+                    "name": "Energy Efficiency and Conservation Authority"
+                }
+            ],
+            "url": "https:\/\/www.eeca.govt.nz\/about-eeca\/consultations-and-proposals\/",
+            "start": "2016-08-02T00:00:00+12:00",
+            "end": "2016-09-02T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Conservation"
+            ]
+        },
+        {
+            "id": 3116,
+            "title": "Proposals to amend the Maximum Residue Levels for Agricultural Compounds Food Notice 2016",
+            "description": "<p>Feedback is sought on the next round of proposed changes to the Maximum Residue Levels (MRLs) currently approved for agricultural chemicals and veterinary medicines registered for use in New Zealand.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 929,
+                    "name": "Ministry for Primary Industries"
+                }
+            ],
+            "url": "http:\/\/www.mpi.govt.nz\/news-and-resources\/consultations\/proposals-to-amend-the-maximum-residue-levels-for-agricultural-compounds-food-notice-2016\/",
+            "start": "2016-07-12T00:00:00+12:00",
+            "end": "2016-09-04T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Food safety"
+            ]
+        },
+        {
+            "id": 3199,
+            "title": "Conservation and environment science roadmap",
+            "description": "<p><span>The Government is seeking public input for the development of its proposed conservation and environment science roadmap. The roadmap will identify the areas of scientific knowledge needed by government over the next 20 years to support decision-making for conservation and environmental policy and management to achieve the most desirable future for New Zealand.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 930,
+                    "name": "Ministry for the Environment"
+                }
+            ],
+            "url": "http:\/\/www.mfe.govt.nz\/consultation\/conservation-and-environment-science-roadmap",
+            "start": "2016-07-15T00:00:00+12:00",
+            "end": "2016-09-07T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Environment"
+            ]
+        },
+        {
+            "id": 3202,
+            "title": "Health of older people draft strategy",
+            "description": "<p>This document sets out a draft strategy for the health and wellbeing of older people for the next 10 years. Its vision is that older people live well, age well, and have a respectful end of life in age-friendly communities.\u00a0It sets out a direction for people-centred health and social services, future policies, funding, planning and service delivery.<\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 937,
+                    "name": "Ministry of Health"
+                }
+            ],
+            "url": "http:\/\/www.health.govt.nz\/publication\/health-older-people-strategy-consultation-draft",
+            "start": "2016-07-13T00:00:00+12:00",
+            "end": "2016-09-07T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Health"
+            ]
+        },
+        {
+            "id": 3232,
+            "title": "Conservation and environment science roadmap proposal",
+            "description": "<p><span>The proposed conservation and environment science roadmap will identify the areas of scientific knowledge needed by government over the next 20 years to support decision-making for conservation and environmental policy and management.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/conservation-and-environment-science-roadmap\/",
+            "start": "2016-07-22T00:00:00+12:00",
+            "end": "2016-09-07T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Conservation"
+            ]
+        },
+        {
+            "id": 3229,
+            "title": "Intention to grant concession to Brenda Harland over part of Westwood Recreation Reserve",
+            "description": "<p><span>Have your say on the Minister of Conservation's intention to grant a 15 year concession to Brenda Harland for horse corrals over part of Westwood Recreation Reserve near Brighton in Dunedin.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/intention-to-grant-concession-to-brenda-harland\/",
+            "start": "2016-07-18T00:00:00+12:00",
+            "end": "2016-09-09T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Business"
+            ]
+        },
+        {
+            "id": 3245,
+            "title": "Biosecurity 2025: Proposals for a direction statement for biosecurity in New Zealand",
+            "description": "<p><span>The Ministry for Primary Industries would like your feedback to inform the development of a direction statement that will guide the biosecurity systems for the next 10 years.<\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 929,
+                    "name": "Ministry for Primary Industries"
+                }
+            ],
+            "url": "http:\/\/www.mpi.govt.nz\/news-and-resources\/consultations\/biosecurity-2025-proposals-for-a-direction-statement-for-biosecurity-in-new-zealand\/",
+            "start": "2016-07-22T00:00:00+12:00",
+            "end": "2016-09-09T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Biosecurity"
+            ]
+        },
+        {
+            "id": 3278,
+            "title": "Submissions sought on kiwifruit, pipfruit and potato insecticide",
+            "description": "<p><span>The Environmental Protection Authority (EPA)\u00a0is calling for submissions on<\/span><span>\u00a0<\/span><span>an application to import an insecticide, called Celsius, to control pests found in kiwifruit, pipfruit and potato crops.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1087,
+                    "name": "Environmental Protection Authority"
+                }
+            ],
+            "url": "http:\/\/www.epa.govt.nz\/consultations\/hazardous-substances\/Pages\/Submissions-sought-on-Celsius.aspx",
+            "start": "2016-07-29T00:00:00+12:00",
+            "end": "2016-09-09T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Environment"
+            ]
+        },
+        {
+            "id": 3269,
+            "title": "The Authority's changes to the FTR Allocation Plan",
+            "description": "<p>This consultation seeks feedback on changes to the FTR Allocation Plan submitted by the FTR manager to the Authority on 6 May 2016.<\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1117,
+                    "name": "Electricity Authority"
+                }
+            ],
+            "url": "http:\/\/www.ea.govt.nz\/development\/work-programme\/operational-efficiencies\/changes-to-the-ftr-allocation-plan\/consultation\/#c16152",
+            "start": "2016-08-02T00:00:00+12:00",
+            "end": "2016-09-13T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Electricity"
+            ]
+        },
+        {
+            "id": 3184,
+            "title": "Intention a to grant a lease\/easement concession to Ski Touring Club Inc",
+            "description": "<p><span>The Minister of Conservation gives notice of her intention to grant a 15 year concession under section 17Q of the Conservation Act 1987 to Ski Touring Club Inc for a lease\/easement over part of the Craigieburn Conservation Park for Club huts and their associated infrastructure. This application is a reissue of an existing activity.<\/span><\/p>\n<p><span><\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/intention-a-to-grant-a-lease-easement-concession-to-ski-touring-club-inc\/",
+            "start": "2016-07-15T00:00:00+12:00",
+            "end": "2016-09-16T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Business"
+            ]
+        },
+        {
+            "id": 3248,
+            "title": "Draft IHS for importing returned New Zealand animal products",
+            "description": "<p>From 20 July 2016 to 19 September 2016 the Ministry for Primary Industries (MPI) invites comment on proposed changes to the new\u00a0Import health standard (IHS) for returned New Zealand animal products.\u00a0The draft IHS is to provide clarity to importers on requirements for importing New Zealand animal products from all countries back to New Zealand, and aims to resolve inconsistencies in, and revoke, existing requirements.<\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 929,
+                    "name": "Ministry for Primary Industries"
+                }
+            ],
+            "url": "http:\/\/www.mpi.govt.nz\/news-and-resources\/consultations\/draft-ihs-for-importing-returned-new-zealand-animal-products\/",
+            "start": "2016-07-20T00:00:00+12:00",
+            "end": "2016-09-19T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Customs and excise"
+            ]
+        },
+        {
+            "id": 3287,
+            "title": "Review of Drug Utensils Regulation: A discussion document",
+            "description": "<p>The National Drug Policy identifies alcohol and other drug issues as health matters that need to be addressed proportionately, compassionately and innovatively. The goal of the policy is to minimise harm from alcohol and other drugs, and to promote and protect the health and wellbeing of New Zealanders.\u00a0<span>This discussion document seeks views on whether a revised approach to drug utensils might be more effective in achieving the goal of the National Drug Policy. In particular, the focus is on utensils that people use to take controlled drugs.<\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 937,
+                    "name": "Ministry of Health"
+                }
+            ],
+            "url": "http:\/\/www.health.govt.nz\/publication\/review-drug-utensils-regulation-discussion-document",
+            "start": "2016-08-01T00:00:00+12:00",
+            "end": "2016-09-20T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Health"
+            ]
+        },
+        {
+            "id": 3251,
+            "title": "Importing ornamental fish and marine invertebrates \u2013 draft IHS and draft facility standard",
+            "description": "<p>From 22 July 2016 to 22 September 2016 the Ministry for Primary Industries (MPI) invites comment on proposed changes to the\u00a0Import health standard (IHS) for ornamental fish and marine invertebrates, and\u00a0Facility Standard for ornamental fish and marine invertebrates.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 929,
+                    "name": "Ministry for Primary Industries"
+                }
+            ],
+            "url": "http:\/\/www.mpi.govt.nz\/news-and-resources\/consultations\/importing-ornamental-fish-and-marine-invertebrates-draft-ihs-and-draft-facility-standard\/",
+            "start": "2016-07-22T00:00:00+12:00",
+            "end": "2016-09-22T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Fisheries"
+            ]
+        },
+        {
+            "id": 2457,
+            "title": "Enabling Good Lives approaches to supporting disabled people ",
+            "description": "<p>The Ministries of Health, Education and Social Development want to learn more about the innovative approaches and practices providers and communities have developed to support disabled people to have greater choice and control over their supports and lives. This will help inform the development of advice to Government on how to apply the Enabling Good Lives approach to disability support services.<\/p>",
+            "organisation": [
+                {
+                    "id": 941,
+                    "name": "Ministry of Social Development"
+                }
+            ],
+            "url": "http:\/\/www.enablinggoodlives.co.nz\/gatheringinformation",
+            "start": "2016-04-01T00:00:00+12:00",
+            "end": "2016-10-21T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Support"
+            ]
+        },
+        {
+            "id": 2690,
+            "title": "Westland Tai Poutini National Park Management Plan review",
+            "description": "<p>The review is an opportunity to take a fresh look at how the Westland\u00a0<em>Tai Poutini\u00a0<\/em>National Park is managed. Two significant management issues facing the Park are air access and the effects of climate change.\u00a0DOC will work closely with Te Runanga o Ngai Tahu,\u00a0Te\u00a0Runanga\u00a0o\u00a0Makaawhio, the West Coast\u00a0<em>Tai Poutini<\/em>Conservation Board, key stakeholders and community groups and organizations throughout the review.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/westland-tai-poutini-national-park-management-plan-review\/",
+            "start": "2016-05-02T00:00:00+12:00",
+            "end": "2016-10-21T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Conservation"
+            ]
+        },
+        {
+            "id": 2957,
+            "title": "Aoraki\/Mount Cook National Park Management Plan review",
+            "description": "<p>National park management plans are required to be reviewed every 10 years, in accordance with Sections 46 and 47 of the National Parks Act 1980.\u00a0These parks belong to you, and DOC manages them on your behalf. The review is an opportunity to hear your views on how you value the park and how you want those values to be reflected in the new management plan. DOC\u00a0will be working closely with Ng\u0101i Tahu, the Canterbury Aoraki Conservation Board, key stakeholders and the community throughout the review.<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 920,
+                    "name": "Department of Conservation"
+                }
+            ],
+            "url": "http:\/\/doc.govt.nz\/get-involved\/have-your-say\/all-consultations\/2016\/aoraki-mount-cook-national-park-management-plan-review\/",
+            "start": "2016-06-06T00:00:00+12:00",
+            "end": "2016-10-28T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Conservation"
+            ]
+        },
+        {
+            "id": 3019,
+            "title": "Dog exercise areas",
+            "description": "<p>A new Dog Control Policy and Bylaw was adopted by Council on 15 December 2015. The new Dog Control Bylaw came effective on 8 February 2016. Comments on the new Bylaw are invited.<\/p>\n<p><\/p>",
+            "organisation": [
+                {
+                    "id": 1288,
+                    "name": "Hutt City Council"
+                }
+            ],
+            "url": "http:\/\/www.huttcity.govt.nz\/Your-Council\/Have-your-say\/Consulting-on\/dog-exercise-areas\/",
+            "start": "2016-06-24T00:00:00+12:00",
+            "end": "2017-02-08T17:00:00+12:00",
+            "status": "current",
+            "topic": [
+                "Local government - Hutt"
+            ]
+        }
+    ]
+}
